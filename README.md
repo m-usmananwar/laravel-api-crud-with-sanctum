@@ -17,4 +17,4 @@
 ## Step 7:
     Open Postman and test Api endpoints first register a user use token as bearer token for authentication then perform crud on products 
 ## Step 8:
-    Remember me in your prayer Happy Coding :)
+    Remember me in your prayers Happy Coding :)
